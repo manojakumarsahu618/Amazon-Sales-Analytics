@@ -10,7 +10,7 @@ The dashboard helps understand business performance and supports data-driven dec
 
 ## Dashboard Preview
 
-![Amazon Sales Analytics Dashboard](images/amazon-sales-dashboard.png)
+![Amazon Sales Analytics Dashboard](Capture1.PNG)
 
 ## Business Objectives
 
